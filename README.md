@@ -20,7 +20,7 @@
  1. Install Git Large File Storage from `https://git-lfs.github.com/` (this is required bcs the ML models are stored on Git-lfs cloud) 
 
  2. Clone this repo
- `git clone https://github.com/padfoot18/Chatbot.git`
+ `git clone https://github.com/nehark99/SAHEB.git`
  
  3. Change directory
  `cd SAHEB/`
